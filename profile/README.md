@@ -9,4 +9,4 @@ This organization contains all the important repositories required to build AOSP
 * [**Vendor Tree**](https://github.com/realme-mt6781-dev/android_vendor_realme) (`android_vendor_realme`)
 * [**Oplus Hardware Tree**](https://github.com/realme-mt6781-dev/android_hardware_oplus) (`android_hardware_oplus`)
 * [**MediaTek Hardware Tree**](https://github.com/realme-mt6781-dev/android_hardware_mediatek) (`android_hardware_mediatek`)
-* [**Patches**](https://github.com/realme-mt6781-dev/Patches) (`patches`)
+* [**Manifests**](https://github.com/realme-mt6781-dev/local_manifests) (`local_manifests`)
