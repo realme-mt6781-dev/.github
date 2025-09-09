@@ -9,6 +9,6 @@ This organization contains all the important repositories required to build AOSP
 * [**Vendor Tree**](https://github.com/realme-mt6781-dev/android_vendor_realme_spaced) (`android_vendor_realme_spaced`)
 * [**Oplus Hardware Tree**](https://github.com/LineageOS/android_hardware_oplus) (`android_hardware_oplus`)
 * [**MediaTek Hardware Tree**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
-* [**Sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**MediaTek Common IMS Tree**](https://github.com/realme-mt6781-dev/android_vendor_mediatek_ims) (`android_vendor_mediatek_ims`)
+* [**Sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**Dolby**](https://github.com/realme-mt6781-dev/android_hardware_dolby) (`android_hardware_dolby`)
